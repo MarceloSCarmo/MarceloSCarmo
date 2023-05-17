@@ -8,5 +8,5 @@
 <div>
 <a href="https://github.com/MarceloSCarmo">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloSCarmo&show_icons=true&theme=dark&include_all_commits=true&count_public=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloSCarmo&layout=compact&langs_count=16&theme=dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloSCarmo&layout=compact&langs_count=16&theme=dark"/>
 </div>
