@@ -5,6 +5,8 @@
 - 📖 Estou estudando Python, HTML e CSS.
 - 📫 Linkedin: https://www.linkedin.com/in/marcelo-dos-santos-carmo-385812176/
 - ⚡ Fun fact: Sempre achei que tecnologia não era pra mim, me convenci disso por muito tempo, porém depois que comecei a estudar acabei pegando gosto e só estudo isso hoje em dia. ✌️😉
-
+<div>
 <a href="https://github.com/MarceloSCarmo">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloSCarmo&show_icons=true&theme=dark&include_all_commits=true&count_public=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloSCarmo&layout=compact&langs_count=16&theme=dark"/>
+</div>
