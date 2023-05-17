@@ -8,6 +8,6 @@
 - ⚡ Fun fact: Sempre achei que tecnologia não era pra mim, me convenci disso por muito tempo, porém depois que comecei a estudar acabei pegando gosto e só estudo isso hoje em dia. ✌️😉
 
 <div>
-  <a herf="https://github.com/MarceloSCarmo">
+  <a href="https://github.com/MarceloSCarmo">
   <img height=180"em" src="https://github-readme-stars.vercel.app/apiusername=MarceloSCarmo&show_icons=true&theme=dark%include_all_commits=true&count_private=true"/>
 </div>
