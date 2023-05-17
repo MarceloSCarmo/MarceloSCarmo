@@ -9,5 +9,5 @@
 
 <div>
   <a href="https://github.com/MarceloSCarmo">
-  <img height=180"em" src="https://github-readme-stars.vercel.app/apiusername=MarceloSCarmo&show_icons=true&theme=dark%include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stars.vercel.app/api?username=MarceloSCarmo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
