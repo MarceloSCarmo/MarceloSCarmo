@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho em uma Startup do setor automotivo como Customer Success.
 - 👨🏽‍🎓 Graduando em Analise e Desenvolvimento de Sitesmas pela Brigham Young University (Idaho-EUA).
-- 📖 Estou estudando Python, HTML e CSS.
+- 📖 Estudante de Análise e Desenvolvimento de Sistemas.
 - ⚡ Fun fact: Sempre achei que tecnologia não era pra mim, me convenci disso por muito tempo, porém depois que comecei a estudar acabei pegando gosto e só estudo isso hoje em dia. ✌️😉
 <div>
 <a href="https://github.com/MarceloSCarmo">
